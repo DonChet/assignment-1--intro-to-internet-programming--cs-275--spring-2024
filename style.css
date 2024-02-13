@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    color: #0D47A1; 
+    background-color: #F5F5F5; 
+}
+
+ nav, main, footer {
+    padding: 20px;
+    color:black
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    font-family:'Times New Roman', Times, serif;
+    color:blue
+}
